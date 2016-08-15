@@ -1,0 +1,3 @@
+[submodule "util-m"]
+	path = util-m
+	url = https://github.com/kloewe/mod-util-m.git
