@@ -9,10 +9,9 @@ $ git clone --recursive https://github.com/kloewe/util-m.git <directory>
 ```
 
 ##### Installation
-Add the util-m subfolder and its subfolders to Matlab's path
-using `addpath` and `genpath` in Matlab.
+Add the util-m subfolder to Matlab's path using `addpath` in Matlab.
 ```
->> addpath(genpath(<directory>/util-m))
+>> addpath('<directory>/util-m')
 ```
 
 ##### Documentation
